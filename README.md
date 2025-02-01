@@ -76,7 +76,7 @@ Cervantes Saavedra, Miguel de<br>
 - *Requisitos*<br>
   Java: JDK 11 ou superior <br>
   Maven: Para gerenciamento de dependências<br>
-  Banco de Dados: (Especifique o banco usado, ex.: MySQL, PostgreSQL)<br>
+  Banco de Dados:PostgreSQL<br>
   API Gutendex: O sistema consome dados da API pública Gutendex (https://gutendex.com).<br>
 
 
